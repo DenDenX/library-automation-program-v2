@@ -17,6 +17,6 @@ An under development library automation program that writed in Python 3 with tki
 
 
 ### Developers
+- Y. Karagöz
 - A. Genç
 - E. E. Köroğlu
-- Y. Karagöz
